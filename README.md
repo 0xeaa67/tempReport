@@ -32,7 +32,7 @@
 ## 👀效果图  
 ![效果图1](img/f.png)
 
-## 💝感谢  
+## 💝参考  
 [Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)  
 [Naihai](https://github.com/naihaishy/TsinghuaDailyReport)
 
