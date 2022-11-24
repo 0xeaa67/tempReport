@@ -1,5 +1,7 @@
 # 🎃易知独秀-体温上报脚本
 
+![GitHub all releases](https://img.shields.io/github/downloads/dx87c/temp_report/total)
+
 > 使用者有责任和义务保证自己上传的打卡数据真实可靠。  
 > 本项目仅供学习交流使用，严禁用于其他用途! For learning and communication only, other use is strictly prohibited！  
 > 作者不承担任何法律责任！The author assumes no legal liability！  
@@ -13,11 +15,11 @@
 2. **添加secret // **Important!****  
    进入: Settings-> Secrets-> new repository secret
    添加USER_NAME与USER_PASS两个key, 对应value为易班的用户名与密码  
-   ![添加Secrets](img/c.png)
+   ![添加Secrets](r/c.png)
 3. **激活Actions**  
    进入: Actions 点击 Understand  
-   ![Understand](img/d.png)点击右侧enable workflow // **Important!**  
-   ![Understand](img/e.png)  
+   ![Understand](r/d.png)点击右侧enable workflow // **Important!**  
+   ![Understand](r/e.png)  
 
 **OK !**
 
@@ -30,10 +32,8 @@
 > * 运行日志去 Action下面查看
 
 ## 👀效果图  
-![效果图1](img/f.png)
+![效果图1](r/f.png)
 
 ## 💝参考  
-[Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)  
-[Naihai](https://github.com/naihaishy/TsinghuaDailyReport)
-
-![](https://img.shields.io/github/downloads/0xeaa67/tempReport/total)
+[gxnu-yzdx-autoreport](https://github.com/Universoar/gxnu-yzdx-autoreport)  
+[TsinghuaDailyReport](https://github.com/naihaishy/TsinghuaDailyReport)
